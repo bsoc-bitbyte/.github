@@ -1,40 +1,38 @@
 name: Feature request
-description: Suggest an idea for this project
+about: Suggest an idea for this project
+
 title: "[Feature Request]: "
-labels: [ "enhancement"]
+labels: enhancement
+
 body:
   - type: markdown
     attributes:
       value: |
         Thanks for taking the time to report a bug in the project.
+
   - type: textarea
     id: problem
     attributes:
       label: Is your feature request related to a problem? Please describe.
-      description: A clear and concise description of what the problem is. **Example:** "I'm always frustrated when [...]"
-    validations:
-      required: true
+      description: A clear and concise description of what the problem is. Example: "I'm always frustrated when..."
+
   - type: textarea
     id: solution
     attributes:
       label: Describe the solution you'd like
-      description: A clear and concise description of what you want to happen. **Example:** "I would like to have [...]"
-    validations:
-      required: true
+      description: A clear and concise description of what you want to happen. Example: "I would like to have..."
+
   - type: textarea
     id: alternatives
     attributes:
       label: Describe alternatives you've considered
-      description: A clear and concise description of any alternative solutions or features you've considered. **Example:** "I have considered [...]"
-    validations:
-      required: false
+      description: A clear and concise description of any alternative solutions or features you've considered. Example: "I have considered..."
+
   - type: textarea
-    id: Help for Contributor
+    id: contributor-help
     attributes:
       label: Additional context to help the developer
       description: |
         Add any other context which can help the developer efficiently implement the feature.
 
         Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
-    validations:
-      required: false
