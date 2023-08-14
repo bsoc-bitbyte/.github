@@ -1,8 +1,8 @@
 # BitByte Summer of Code
 
-🌟 Welcome to the BitByte Summer of Code program organized by the Programming Club at AIT IIIT Jabalpur! 🌟
+🌟 Welcome to the BitByte Summer of Code program organized by the Programming Club at IIIT Jabalpur! 🌟
 
-This program is designed to provide students with a unique opportunity to enhance their coding skills, collaborate on exciting projects, and contribute to open-source software development. Whether you're a beginner or an experienced programmer, this program has something to offer for everyone. 💻🚀
+This program is designed to provide students with a unique opportunity to enhance their coding skills, collaborate on exciting projects, and contribute to open-source software development. Whether you're a beginner or an experienced programmer, this program has something to offer everyone. 💻🚀
 
 ## Program Overview
 
@@ -36,7 +36,7 @@ To participate in the BitByte Summer of Code program, follow these steps:
 
 To participate in the program, you should meet the following requirements:
 
-- Must be a student currently enrolled in a recognized educational institution. 🎓📚
+- Must be a student currently enrolled in IIIT Jabalpur. 🎓📚
 
 - Should have a basic understanding of programming concepts and preferably have some experience with at least one programming language. 💡💻
 
