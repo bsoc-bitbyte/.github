@@ -46,13 +46,9 @@ To participate in the program, you should meet the following requirements:
 
 ## Important Dates
 
-- Registration Opens: 13 May 2023
+- Selection Announcement: 17 May 2024
 
-- Registration Deadline: 15 May 2023
-
-- Selection Announcement: 17 May 2023
-
-- Program Duration: 1 June 2023 to 31 July 2023
+- Program Duration: 1 June 2024 to 31 July 2024
 
 ## Contact Us
 
