@@ -18,20 +18,6 @@ The BitByte Summer of Code is a 10-week program that runs from May to July, aimi
 
 🔸 **Community Engagement**: Participants will have access to our vibrant community, comprising fellow participants, mentors, and alumni. Engage in discussions, ask questions, share ideas, and collaborate with others to create a thriving learning environment. 🌍🤝
 
-🔸 **Recognition and Certificates**: Outstanding performers will receive recognition for their contributions, and all participants will receive certificates of completion at the end of the program. These certificates can be a valuable addition to your portfolio and resume. 🏆📜
-
-## How to Participate
-
-To participate in the BitByte Summer of Code program, follow these steps:
-
-1. Visit our website at [bitbytesummerofcode.netlify.app](https://bitbytesummerofcode.netlify.app/) and navigate to the poject page.
-
-2. Register for your favourite project, which catches your attention.
-
-3. After the registration period ends, the selection process will take place, and selected participants will be notified via email.
-
-4.. Once selected, you will receive further instructions on how to get started, project assignments, and details about your mentor. 📝✉️
-
 ## Requirements
 
 To participate in the program, you should meet the following requirements:
@@ -50,8 +36,8 @@ To participate in the program, you should meet the following requirements:
 
 - Program Duration: 1 June 2024 to 31 July 2024
 
-## Contact Us
+## Contribution
 
-If you have any questions or need further information, feel free to reach out to us in the discussion.
+Follow [CONTRIBUTING.md](../.github/CONTRIBUTING.md) for contribution guidelines.
 
 HAPPY CODING 😄
