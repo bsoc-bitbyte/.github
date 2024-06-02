@@ -31,7 +31,7 @@ If you find an Issue that addresses the problem you're having, please add your o
 
 PRs to our projects are always welcome and can be a quick way to get your fix or improvement slated for the next release. In general, PRs should:
 
-- Only fix/add the functionality in question **OR** address wide-spread whitespace/style issues, not both.
+- Only fix/add the functionality in question.
 - Address a single concern in the least number of changed lines as possible.
 - Be accompanied by a complete Pull Request template (loaded automatically when a PR is created).
 
@@ -71,11 +71,10 @@ Work on a new pull request in a new branch and commit it to your fork. Remember 
     ```
 4. Open a PR in our repository and follow the PR template so that we can efficiently review the changes.
     - Go to your fork on GitHub.
-    - Switch to the `BRANCH`.
     - Click *Compare & pull request*.
     - Click *Create pull request*.
 
-Wait for an upstream developer to review and merge your pull request.
+Wait for a maintainer to review and merge your pull request.
 
 If there are review comments to be addressed, continue working on your branch, commiting, optionally rebasing, amending, squashing, and dropping them, and pushing them to the `branch` of `origin` (your fork). Any changes to the `branch` automatically become available in the pull request.
 
