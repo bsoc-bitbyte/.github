@@ -24,7 +24,7 @@ The BitByte Summer of Code is a 10-week program that runs from May to July, aimi
 
 To participate in the BitByte Summer of Code program, follow these steps:
 
-1. Visit our website at [www.bitbyte.summerofcode](http://www.bitbyte.summerofcode) and navigate to the poject page.
+1. Visit our website at [bitbyte.summerofcode](https://bitbytesummerofcode.netlify.app/) and navigate to the project page.
 
 2. Register for your favourite project, which catches your attention.
 
@@ -53,6 +53,10 @@ To participate in the program, you should meet the following requirements:
 - Selection Announcement: 17 May 2023
 
 - Program Duration: 1 June 2023 to 31 July 2023
+
+## Contributing
+
+Follow our [contribution guidelines](.github/CONTRIBUTING.md) to more more about how you can contribute to our projects.
 
 ## Contact Us
 
